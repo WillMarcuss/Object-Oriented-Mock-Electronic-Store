@@ -1,0 +1,1 @@
+Program that uses object oriented principles such as: encapsulation, inheritance, polymorphism & abstraction
